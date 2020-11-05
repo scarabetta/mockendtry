@@ -11,7 +11,7 @@
     "isoCode": "String",
     "name": "String",
     "locales": [
-      "locale": "String"
+      {"locale": "String"}
     ]
   }
 }
