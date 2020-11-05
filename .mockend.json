@@ -6,5 +6,8 @@
   },
   "User": {
     "name": "String"
+  },
+  "Country": {
+    "name": "String"
   }
 }
