@@ -6,9 +6,5 @@
   },
   "User": {
     "name": "String"
-  },
-  "Country": {
-    "isoCode": "String",
-    "country": "String",
-    "locale": "String"
+  }
 }
