@@ -9,6 +9,9 @@
   },
   "Country": {
     "isoCode": "String",
-    "name": "String"
+    "name": "String",
+    "locales": [
+      "locale": "String"
+    ]
   }
 }
