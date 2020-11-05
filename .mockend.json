@@ -8,6 +8,7 @@
     "name": "String"
   },
   "Country": {
+    "isoCode": "String",
     "name": "String"
   }
 }
